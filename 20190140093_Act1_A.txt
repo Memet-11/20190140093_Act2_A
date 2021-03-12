@@ -1,0 +1,8 @@
+Nama : Media Ramadan
+NIM  : 20190140093
+Kelas : A
+
+1. https://github.com/Memet-11/20190140093_Act1_Table-Layout_-layoutA
+2. https://github.com/Memet-11/20190140093_Act1_Frame-layout_A
+3. https://github.com/Memet-11/20190140093_Act1_linear-layout_A
+4. https://github.com/Memet-11/20190140093_Act1__constraint-layoutA
